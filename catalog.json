@@ -21,6 +21,70 @@
       "count": 407,
       "price": "۴۹٬۰۰۰ تومان",
       "sku": "pack_ar_konkur_one"
+    },
+    {
+      "id": "en-grammar-1",
+      "title": "قواعد انگلیسی کنکور",
+      "description": "زمان‌ها، مجهول، شرطی، گزارش گفتار و نکته‌های پرتکرار قواعد با مثال.",
+      "count": 87,
+      "price": "۲۹٬۰۰۰ تومان",
+      "sku": "pack_en_grammar_one"
+    },
+    {
+      "id": "en-phrasal-1",
+      "title": "افعال عبارتی و ترکیب‌های انگلیسی",
+      "description": "افعال دوکلمه‌ای، هم‌نشین‌ها و عبارت‌های حرف اضافه‌ای پرتکرار.",
+      "count": 151,
+      "price": "۲۹٬۰۰۰ تومان",
+      "sku": "pack_en_phrasal_one"
+    },
+    {
+      "id": "ar-grammar-1",
+      "title": "قواعد عربی کنکور",
+      "description": "اعراب، ضمایر، افعال، ابواب، اعداد و ساختارهای پرتکرار با مثال.",
+      "count": 60,
+      "price": "۲۹٬۰۰۰ تومان",
+      "sku": "pack_ar_grammar_one"
+    },
+    {
+      "id": "math-formulas-1",
+      "title": "فرمول‌های ریاضی",
+      "description": "اتحادها، توابع، مثلثات، مشتق، انتگرال، احتمال و آمار.",
+      "count": 93,
+      "price": "۲۹٬۰۰۰ تومان",
+      "sku": "pack_math_formulas_one"
+    },
+    {
+      "id": "geometry-formulas-1",
+      "title": "فرمول‌های هندسه",
+      "description": "مساحت، حجم، روابط دایره، تشابه و قضیه‌های مهم هندسه.",
+      "count": 61,
+      "price": "۲۹٬۰۰۰ تومان",
+      "sku": "pack_geometry_formulas_one"
+    },
+    {
+      "id": "physics-formulas-1",
+      "title": "فرمول‌های فیزیک",
+      "description": "حرکت، نیرو، انرژی، گرما، الکتریسیته، مغناطیس، نوسان، نور و فیزیک نوین.",
+      "count": 92,
+      "price": "۲۹٬۰۰۰ تومان",
+      "sku": "pack_physics_formulas_one"
+    },
+    {
+      "id": "chemistry-1",
+      "title": "نکته‌ها و فرمول‌های شیمی",
+      "description": "ساختار اتم، مول، اسید و باز، تعادل، ترموشیمی، الکتروشیمی و آلی.",
+      "count": 75,
+      "price": "۲۹٬۰۰۰ تومان",
+      "sku": "pack_chemistry_one"
+    },
+    {
+      "id": "biology-1",
+      "title": "نکته‌های زیست‌شناسی",
+      "description": "یاخته، ژنتیک، تنفس و فتوسنتز، دستگاه‌های بدن، گیاهان و تکامل.",
+      "count": 134,
+      "price": "۲۹٬۰۰۰ تومان",
+      "sku": "pack_biology_one"
     }
   ]
 }
