@@ -1,0 +1,26 @@
+{
+  "id": "en-sample",
+  "title": "لغات انگلیسی کنکور — نمونه‌ی رایگان",
+  "cards": [
+    { "front": "abandon", "back": "رها کردن، ترک کردن" },
+    { "front": "accurate", "back": "دقیق، درست" },
+    { "front": "achieve", "back": "به دست آوردن، رسیدن به" },
+    { "front": "ancient", "back": "باستانی، کهن" },
+    { "front": "benefit", "back": "سود، فایده" },
+    { "front": "capable", "back": "توانا، قادر" },
+    { "front": "common", "back": "رایج، مشترک" },
+    { "front": "decrease", "back": "کاهش یافتن، کاهش دادن" },
+    { "front": "efficient", "back": "کارآمد، مؤثر" },
+    { "front": "familiar", "back": "آشنا" },
+    { "front": "generate", "back": "تولید کردن" },
+    { "front": "honest", "back": "صادق، درستکار" },
+    { "front": "improve", "back": "بهتر کردن، بهبود یافتن" },
+    { "front": "journey", "back": "سفر" },
+    { "front": "knowledge", "back": "دانش، آگاهی" },
+    { "front": "limit", "back": "محدود کردن؛ حد" },
+    { "front": "major", "back": "عمده، اصلی" },
+    { "front": "necessary", "back": "ضروری، لازم" },
+    { "front": "obvious", "back": "آشکار، بدیهی" },
+    { "front": "provide", "back": "فراهم کردن، تأمین کردن" }
+  ]
+}

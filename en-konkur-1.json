@@ -1,0 +1,31 @@
+{
+  "id": "en-konkur-1",
+  "title": "لغات انگلیسی کنکور ۱",
+  "cards": [
+    { "front": "adequate", "back": "کافی، مناسب" },
+    { "front": "adjust", "back": "تطبیق دادن، تنظیم کردن" },
+    { "front": "affect", "back": "تأثیر گذاشتن بر" },
+    { "front": "aggressive", "back": "پرخاشگر، تهاجمی" },
+    { "front": "alternative", "back": "جایگزین، گزینه" },
+    { "front": "apparent", "back": "آشکار، ظاهری" },
+    { "front": "attitude", "back": "نگرش، رفتار" },
+    { "front": "bargain", "back": "معامله؛ چانه زدن" },
+    { "front": "burden", "back": "بار، بار سنگین" },
+    { "front": "cautious", "back": "محتاط" },
+    { "front": "challenge", "back": "چالش؛ به چالش کشیدن" },
+    { "front": "consequence", "back": "پیامد، نتیجه" },
+    { "front": "reluctant", "back": "بی‌میل، مردد" },
+    { "front": "deliberate", "back": "عمدی؛ سنجیده" },
+    { "front": "distinguish", "back": "تشخیص دادن، تمایز قائل شدن" },
+    { "front": "eliminate", "back": "حذف کردن، از بین بردن" },
+    { "front": "emerge", "back": "پدیدار شدن" },
+    { "front": "enormous", "back": "بسیار بزرگ، عظیم" },
+    { "front": "essential", "back": "ضروری، اساسی" },
+    { "front": "evidence", "back": "شواهد، مدرک" },
+    { "front": "flexible", "back": "انعطاف‌پذیر" },
+    { "front": "genuine", "back": "اصیل، واقعی" },
+    { "front": "hesitate", "back": "تردید کردن" },
+    { "front": "inevitable", "back": "اجتناب‌ناپذیر" },
+    { "front": "maintain", "back": "حفظ کردن، نگه داشتن" }
+  ]
+}
